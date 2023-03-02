@@ -1,0 +1,31 @@
+<style>
+
+body {
+    background-color: #f1f1f1;
+}
+
+.custom-navbar {
+  background-color: rgb(0, 128, 117);
+  color: white;
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.custom-green {
+    color: rgb(0, 128, 117);
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.custom-green-sub {
+    color: rgb(0, 128, 117);
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+</style>
